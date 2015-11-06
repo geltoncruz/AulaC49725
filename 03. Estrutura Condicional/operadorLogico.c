@@ -38,7 +38,7 @@ int main(int argc, char **argv)
 	//system("cls");
 
 		//OPERADOR AND obriga que as duas condições sejam verdadeiras
-	/*
+	
 	 if(media >= 7 && faltas < 40)
 	{
 		printf("Aprovado!\n");
@@ -49,7 +49,7 @@ int main(int argc, char **argv)
 	{
 			printf("Aprovado");
 	}
-	*/
+	
 	//Não executará se a condição for falsa.
 	if(!media >=7)
 	{
